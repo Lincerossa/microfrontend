@@ -1,0 +1,13 @@
+pro
+
+1. Engeenering team could use different technologies completely indipendently
+2. Each of them can develop their product with their own technologies
+3. So microfrontend are where we take a monolithic application and we divide it into multiple smaller applications,
+4. isolation and less breaking possibilities
+5. easy  to setup
+
+
+
+cons:
+
+1. container has to be re-deployed every time a npm module is updated
