@@ -15,3 +15,8 @@ cons:
 
 
 // container app = app that integrates the single app. Each of them are completly unaware of each other
+
+
+// Module federation seems not to be ready for cra https://github.com/facebook/create-react-app/issues/9510
+
+// In Module Federation, what do the terms Host and Remote refer to host that requires code from a remote
