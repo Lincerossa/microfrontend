@@ -11,3 +11,7 @@ pro
 cons:
 
 1. container has to be re-deployed every time a npm module is updated
+
+
+
+// container app = app that integrates the single app. Each of them are completly unaware of each other
