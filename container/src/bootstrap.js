@@ -1,4 +1,2 @@
 import 'products/ProductsIndex'
-
-
-console.log("container")
+import 'other/OtherIndex'

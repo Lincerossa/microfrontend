@@ -1,5 +1,5 @@
 const htmlPlugin = require("html-webpack-plugin")
-const ModuleFederationPlugin = require("webpack/lib/container/ModuleFederationPluginPlugin")
+const ModuleFederationPlugin = require("webpack/lib/container/ModuleFederationPlugin")
 
 module.exports = {
   mode: 'development',

@@ -11,9 +11,8 @@ pro
 cons:
 
 1. container has to be re-deployed every time a npm module is updated
-
-
-
+2. sharing functions between sub modules, state etc is not easy. it is not very reccommend also
+3. the stlye between sub modules has to be scoped 100%
 // container app = app that integrates the single app. Each of them are completly unaware of each other
 
 
